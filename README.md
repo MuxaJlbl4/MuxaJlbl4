@@ -1,3 +1,4 @@
++ 🔠 [ASCII Table](https://github.com/MuxaJlbl4/ASCII-Table) - Code table in MarkDown
 + 🎮 [Awesome PlayStation Vita](https://github.com/MuxaJlbl4/Awesome-PlayStation-Vita) - Cool stuff collection
 + 🖨️ [Booklet Print Order](https://github.com/MuxaJlbl4/Booklet-Print-Order) - Page print ordering script
 + 🔫 [Counter-Strike: Condition Zero Co-op](https://github.com/MuxaJlbl4/Condition-Zero-Coop) - Co-op patch with YaPB support
